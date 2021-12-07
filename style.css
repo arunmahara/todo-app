@@ -90,7 +90,7 @@ li span:hover{
 }
 #clear{
     padding: 4px 13px;
-    background-color: rgb(180, 54, 180);
+    background-color:  rgb(204, 115, 115);;
     border: none;
     border-radius: 4px;
     color: white;
@@ -98,7 +98,6 @@ li span:hover{
     transition: .5s;
 }
 #clear:hover{
-    background-color: #7209b7;
     width: 90px;
     height: 25px;
 }
