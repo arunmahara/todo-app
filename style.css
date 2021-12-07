@@ -109,3 +109,13 @@ li span:hover{
         transform:translate(-50%, -40%);
     }
   }
+@media screen and (max-width: 360px) {  /* for mobile responsive*/
+    .container{
+        width: 80%;
+        top: 30%;
+        transform:translate(-50%, -30%);
+    }
+    .footer{
+        margin: 30px 15px;
+    }
+  }
